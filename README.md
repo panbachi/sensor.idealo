@@ -5,7 +5,7 @@
 [![maintainer](https://img.shields.io/badge/maintainer-Goran%20Zunic%20%40panbachi-blue.svg?style=for-the-badge)](https://www.panbachi.de)
 
 ## Installation
-1. Install this component by copying the files to your `/custom_components/` folder
+1. Install this component by copying the 'idealo'-folder to your `/custom_components/`. (Now updated to work on hass>=0.88)
 2. Add this to your `configuration.yaml` using the config options below example.
 3. **You will need to restart for the component to start working**
 
