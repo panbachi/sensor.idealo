@@ -1,0 +1,8 @@
+{
+        "domain": "idealo",
+        "name": "Idealo sensor custom component",
+        "documentation": "https://github.com/panbachi/sensor.idealo",
+        "requirements": [],
+        "dependencies": [],
+        "codeowners": ["@panbachi"]
+}
